@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Largest_Array {
     public static int largest(int a[]){
         int l=Integer.MIN_VALUE;
