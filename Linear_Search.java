@@ -1,4 +1,3 @@
-import java.util.*;
 public class Linear_Search{
 
     public static int ls(int[] a,int key){
